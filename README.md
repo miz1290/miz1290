@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miz1290
-- 👀 I’m interested in ... Front End Web Development/Game Design/Software Development in general
+- 👀 I’m interested in ... Web Development/Game Design/Software Development in general
 - 🌱 I’m currently learning ... React w/ MUI
 - 💞️ I’m looking to collaborate on ... Projects that use React/Javascript to build out front ends, Python, or C++
 - 📫 How to reach me ... miz1492@gmail.com
